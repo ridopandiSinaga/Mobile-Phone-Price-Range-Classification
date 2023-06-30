@@ -422,6 +422,7 @@ Algoritma yang digunakan:
 Pada keenam algoritma tersebut dibandingkan dan dievaluasi berdasarkan overall accuracy score dan recall pada masing-masing kelas. Akurasi merupakan perbandingan antara data yang terklasifikasi benar dengan keseluruhan data. Nilai akurasi dapat diperoleh dengan persamaan berikut :
   
 Accuracy
+
 $$ \Large Akurasi = \frac{\sum\limits_{i=1}^{l} \frac{TP_i+TN_i}{TP_i+TN_i+FP_i+FN_i}}{l} * 100%$$
 
 Recall
